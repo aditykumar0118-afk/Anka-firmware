@@ -4,7 +4,7 @@
  */
 
 #include "display.h"
-#include "../input/buttons.h"
+#include "input/buttons.h"
 
 // Icons 8x8 bitmaps (XBM format)
 const uint8_t ICON_WIFI[] = {0x00, 0x7E, 0x81, 0x3C, 0x42, 0x18, 0x24, 0x18};
