@@ -25,3 +25,4 @@ jobs:
         with:
           name: firmware-binaries
           path: .pio/build/esp32dev/*.bin
+          
