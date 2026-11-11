@@ -6,7 +6,7 @@
 #ifndef WIFI_MODULE_H
 #define WIFI_MODULE_H
 
-#include "../config.h"
+#include "config.h"
 #include "esp_wifi.h"
 #include <Arduino.h>
 #include <WiFi.h>
